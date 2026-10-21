@@ -1,0 +1,29 @@
+# Dependencies & Virtual Environments
+node_modules/
+**/node_modules/
+.venv/
+**/.venv/
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Next.js & TypeScript build output
+.next/
+**/.next/
+out/
+**/out/
+*.tsbuildinfo
+**/*.tsbuildinfo
+
+# Environment variables (keep .env.example and .env.local.example)
+.env
+**/.env
+.env.local
+**/.env.local
+
+# OS & Editor files
+.DS_Store
+**/.DS_Store
+*.swp
